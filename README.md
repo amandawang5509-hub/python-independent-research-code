@@ -1,0 +1,1 @@
+This is some code from my independent research project on investigating a potential relationship between pre-ictal heart rate variability and seizure duration. This file calculates RMSSD values for the seizures in the SeizeIT2 dataset, a publicly available database containing synchronized EEG and ECG data for 125 patients. 
